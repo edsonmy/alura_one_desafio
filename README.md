@@ -1,4 +1,4 @@
-# alura_one_desafio
+# Desafio Amigo Secreto
 Alura - ONE - Oracle Next Education - Desafio Amigo Secreto
 
 Neste desafio, desenvolva uma aplicação que permita ao usuário inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio e determinar quem é o "amigo secreto".
